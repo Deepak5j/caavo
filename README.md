@@ -9,7 +9,6 @@
 ![main](https://raw.githubusercontent.com/Deepak5j/caavo/master/ScreenShots/4.%20Mian-2.PNG)
 ![view_data](https://raw.githubusercontent.com/Deepak5j/caavo/master/ScreenShots/6.%20View%20Data.PNG)
 ![add_data](https://raw.githubusercontent.com/Deepak5j/caavo/master/ScreenShots/5.%20Add%20Data.PNG)
-![mobile_view](https://raw.githubusercontent.com/Deepak5j/caavo/master/ScreenShots/8.%20On%20small%20window-3.PNG)
 
 
 
